@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjana</h1>
-<h3 align="center">A passionate Data Analyst and continuous learner from India</h3>
+<h1 align="center">Hi 👋, I'm Sanjana Sulakhe</h1>
+<h3 align="center">A passionate Computer Engineering Student and Data Analytics Enthusiast from India</h3>
 
 ---
 
@@ -21,10 +21,10 @@
     <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
   </span>
   <span style="display: inline-block; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="SQL" />
   </span>
   <span style="display: inline-block; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" title="Power BI" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Power BI" title="Power BI" />
   </span>
   <span style="display: inline-block; margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
