@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana</h1>
+<h1 align="center">Hi 👋, I'm Sanjana Sulakhe</h1>
 <h3 align="center">A passionate Computer Engineering Student and Data Analytics Enthusiast from India</h3>
 
 ---
