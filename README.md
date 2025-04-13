@@ -1,39 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sanjana Sulakhe</h1>
-<h3 align="center">🎯 A passionate Data Analyst and continuous learner from India</h3>
+<h1 align="center">Hi 👋, I'm Sanjana</h1>
+<h3 align="center">A passionate Data Analyst and continuous learner from India</h3>
 
 ---
 
 ### 📌 About Me
 
-- 🎓 Student at **RAIT, DY Patil**
-- 📊 Currently learning **Power BI, Python, SQL**
-- 🚀 Working on: **LeafLens - An AI Plant Doctor (Flutter + ML)**
-- 💼 Looking for **Data Analytics Internship Opportunities**
-- 🧠 Always curious about **Machine Learning, Visualization & AI**
-- 💬 Ask me about: **Data Analysis, GitHub Setup, Learning Paths**
+- 🎓 Currently a student at **RAIT, DY Patil** (BTech in Computer Software Engineering)
+- 📊 Currently learning **Power BI**, **Python**, **SQL**
+- 🚀 **Working on:** **LeafLens** - An AI Plant Doctor app (Flutter + ML)
+- 💼 Actively seeking **Data Analytics Internship opportunities**
+- 🧠 Always curious about **Machine Learning**, **Data Visualization**, and **AI**
+- 💬 Ask me about: **Data analysis**, **GitHub setup**, **Learning paths**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ **Languages & Tools**
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" />
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- Data & Analytics -->
-  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" title="Power BI" />
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- App Development -->
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- Developer Tools -->
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" title="Power BI" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+  </span>
 </p>
 
 ---
@@ -48,7 +52,7 @@
 
 ---
 
-### 🧩 Coding Practice
+### 🧩 **Coding Practice**
 
 <p align="center">
   <a href="https://leetcode.com/sanjanasulakhe23/" target="_blank">
@@ -58,7 +62,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 **Let's Connect**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjana-sulakhe23/">
@@ -72,4 +76,5 @@
 ---
 
 <p align="center">✨ Building. Learning. Growing. Every day. ✨</p>
+
 
