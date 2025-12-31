@@ -31,17 +31,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sanjanasulakhe23&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=sanjanasulakhe23&show_icons=true&theme=radical&cache_seconds=86400"
     alt="GitHub Stats"
     width="420"
   />
   <br/>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=sanjanasulakhe23&theme=radical"
+    src="https://streak-stats.demolab.com?user=sanjanasulakhe23&theme=radical&cache_seconds=86400"
     alt="GitHub Streak"
     width="420"
   />
 </p>
+
 
 ---
 
